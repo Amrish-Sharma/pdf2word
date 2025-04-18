@@ -1,0 +1,6 @@
+
+uploads/*
+converted/*
+
+!uploads/.gitkeep
+!converted/.gitkeep
