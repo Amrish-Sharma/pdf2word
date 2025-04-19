@@ -131,6 +131,4 @@ Feel free to fork and contribute!
 GitHub: [@Amrish-Sharma](https://github.com/Amrish-Sharma)
 ```
 
----
-
 This update includes Docker instructions so you can easily build and run your app in a container. Let me know if you'd like to further enhance the `README`, or if you'd prefer me to include deployment instructions for cloud platforms like Heroku or AWS!
